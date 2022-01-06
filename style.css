@@ -244,3 +244,11 @@ footer{
     color: white;
 }
 
+button.contact-btn {
+    border-radius: 10px;
+    padding: 16px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
