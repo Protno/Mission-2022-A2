@@ -152,3 +152,65 @@ div#img-color-change2 {
     margin-top: 18px;
     width: 815px;
 }
+/*********************contact us start ************************/
+section.contact-sec h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+section.contact-sec p {
+    text-align: center;
+}
+.contact-form {
+    width: 100%;
+}
+
+.contact-form input {
+    width: 383px;
+}
+
+input[type="text"] {
+    width: 383px;
+    height: 55px;
+    /* color: #d90404; */
+}
+
+label {
+    font-weight: 900;
+    font-family: revert;
+    color: #000000;
+    padding: 16px;
+    font-size: 20px;
+}
+.contact-form {
+    width: 45%;
+    background-color: #ffad5a;
+    height: 368px;
+    margin-left: 515px;
+    border-radius: 12px;
+}
+
+.contact-form input {
+    width: 663px;
+    margin-left: 90px;
+    /* padding: 10px; */
+    border-radius: 5px;
+    background-color: #f7f7f7;
+    border: none;
+}
+
+
+
+
+
+input[type="number"] {
+    height: 55px;
+}
+
+input[type="text"] {
+    text-align: center;
+}
+
+input[type="number"] {
+    text-align: center;
+}
